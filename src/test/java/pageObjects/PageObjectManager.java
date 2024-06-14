@@ -6,7 +6,7 @@ import utils.TestBase;
 
 public class PageObjectManager {
 	public WebDriver driver;
-	LoginPage loginpage;
+	public LoginPage loginpage;
 	
 	public PageObjectManager(WebDriver driver)
 	{
